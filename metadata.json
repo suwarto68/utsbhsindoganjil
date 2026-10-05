@@ -1,0 +1,6 @@
+{
+  "name": "Ujian Tengah Semester Bahasa Indonesia SD - Kec. Wanaraya Barito Kuala",
+  "description": "Aplikasi Ujian Tengah Semester Bahasa Indonesia SD Kelas V berbasis stimulus teks narasi dan infografis Barito Kuala Wanaraya dilengkapi nilai instan dan sertifikat digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
